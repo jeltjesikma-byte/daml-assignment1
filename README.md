@@ -18,9 +18,18 @@ The records and images were collected from the Rijksmuseum's online collection c
 The downloaded images were resized because the original files were too large to work with efficiently.
 
 ### Structure
-The repository contains a `metadata.csv` file with information about each painting and a `data` folder containing the corresponding images. A codebook describing all variables in `metadata.csv` is provided below.
+The repository contains the following files and folders:
 
-#### Codebook
+| `data/` | Folder containing the resized images of the 42 paintings. |
+| `metadata.csv` | Final dataset containing the metadata for each painting. |
+| `metadata_draft.csv` | Draft metadata used to prepare the final dataset. |
+| `prepare_dataset.ipynb` | Notebook used to prepare the final dataset from metadata_draft.csv. |
+| `check_dataset.ipynb` | Notebook used to inspect and validate the final dataset, metadata.csv. |
+| `requirements.txt` | Lists the Python packages required to run the notebooks. |
+| `.gitignore` | Specifies which files are excluded from version control. |
+| `README.md` | Describes the dataset, its collection process, structure and limitations. |
+
+#### Codebook of variables in metadata.csv
 
 | Variable | Description | Type | Allowed values / missing values |
 |---|---|---|---|
