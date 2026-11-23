@@ -1,24 +1,26 @@
-# daml-assignment1: Paintings in the Rijksmuseum's Gallery of Honour
+# daml-assignment1: 
 
-## The dataset
+## Paintings in the Rijksmuseum's Gallery of Honour
+
+### The dataset
 This dataset contains records and images of paintings displayed in the Gallery of Honour at the Rijksmuseum. Each item represents one painting, resulting in a total of 42 items.
 
-## Motivation
+### Motivation
 The Gallery of Honour displays selected masterpieces by 17th-century artists and leads to *The Night Watch* by Rembrandt van Rijn. This dataset can be used to explore the chronological distribution of the paintings and the representation of different artists.
 
-## Selection criteria
+### Selection criteria
 All paintings displayed in the Gallery of Honour were included, except for *De Gouden Leeuw op het IJ voor Amsterdam* by Willem van de Velde (II), dating from 1686, because no digital image was available.
 
-## Data collection
+### Data collection
 The records and images were collected from the Rijksmuseum's online collection catalogue. The paintings were identified through the 'On Display in Gallery of Honour' label on the collection pages.
 
-## Cleaning and preprocessing
+### Cleaning and preprocessing
 The downloaded images were resized because the original files were too large to work with efficiently.
 
-## Structure
+### Structure
 The repository contains a `metadata.csv` file with information about each painting and a `data` folder containing the corresponding images. A codebook describing all variables in `metadata.csv` is provided below.
 
-### Codebook
+#### Codebook
 
 | Variable | Description | Type | Allowed values / missing values |
 |---|---|---|---|
@@ -32,10 +34,10 @@ The repository contains a `metadata.csv` file with information about each painti
 | `source` | URL of the Rijksmuseum collection page for the artwork | String | Valid URL; empty if unavailable |
 | `licence` | Copyright or usage licence assigned to the artwork image | Categorical | `Public Domain`; empty if unknown |
 
-## Uses and limitations
+### Uses and limitations
 The dataset can be used to explore the chronological distribution of paintings, compare artists and make visual comparisons. However, it contains only 42 paintings and is not representative of the entire Rijksmuseum collection or Dutch painting in the 17th century. Some production dates are estimates rather than exact dates.
 
-## Ethical and legal aspects
+### Ethical and legal aspects
 All 42 paintings are marked with the Creative Commons Public Domain Mark (PDM 1.0) by the Rijksmuseum. The dataset contains no personal information.
 
 ## Licence and citation
