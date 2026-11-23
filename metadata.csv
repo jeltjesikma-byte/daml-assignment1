@@ -1,0 +1,43 @@
+number,id,file,title,artist,original_date,date_edtf,earliest_date,latest_date,source,licence
+4118,SK-A-4118,data/SK-A-4118.jpg,River Landscape with Riders,Aelbert Cuyp,c. 1653 - 1657,1653~/1657,1653,1657,https://www.rijksmuseum.nl/en/collection/SK-A-4118,Public Domain
+4821,SK-A-4821,data/SK-A-4821.jpg,Still Life with Cheese,Floris Claesz van Dijck,c. 1615,1615~,1615,1615,https://www.rijksmuseum.nl/en/collection/SK-A-4821,Public Domain
+135,SK-A-135,data/SK-A-135.jpg,The Merry Drinker,Frans Hals,c. 1628 - c. 1630,1628~/1630~,1628,1630,https://www.rijksmuseum.nl/en/collection/SK-A-135,Public Domain
+556,SK-C-556,data/SK-C-556.jpg,Portrait of Lucas de Clercq,Frans Hals,c. 1635,1635~,1635,1635,https://www.rijksmuseum.nl/en/collection/SK-C-556,Public Domain
+557,SK-C-557,data/SK-C-557.jpg,Portrait of Feyntje van Steenkiste,Frans Hals,1635,1635,1635,1635,https://www.rijksmuseum.nl/en/collection/SK-C-557,Public Domain
+495,SK-A-495,data/SK-A-495.jpg,The Lutenist,Hendrick Martensz Sorgh,1661,1661,1661,1661,https://www.rijksmuseum.nl/en/collection/SK-A-495,Public Domain
+351,SK-A-351,data/SK-A-351.jpg,"View of Haarlem from the Northwest, with the Bleaching Fields in the Foreground",Jacob Isaacksz van Ruisdael,c. 1650 - c. 1682,1650~/1682~,1650,1682,https://www.rijksmuseum.nl/en/collection/SK-A-351,Public Domain
+211,SK-C-211,data/SK-C-211.jpg,The Windmill at Wijk bij Duurstede,Jacob Isaacksz van Ruisdael,c. 1668 - c. 1670,1668~/1670~,1668,1670,https://www.rijksmuseum.nl/en/collection/SK-C-211,Public Domain
+5069,SK-A-5069,data/SK-A-5069.jpg,Flower Still Life with a Crown Imperial Fritillary in a Stone Niche,Jacob Vosmaer,1613,1613,1613,1613,https://www.rijksmuseum.nl/en/collection/SK-A-5069,Public Domain
+4,SK-A-4,data/SK-A-4.jpg,The Threatened Swan,Jan Asselijn,c. 1650,1650~,1650,1650,https://www.rijksmuseum.nl/en/collection/SK-A-4,Public Domain
+383,SK-A-383,data/SK-A-383.jpg,Self-portrait,Jan Havicksz. Steen,c. 1670,1670~,1670,1670,https://www.rijksmuseum.nl/en/collection/SK-A-383,Public Domain
+385,SK-A-385,data/SK-A-385.jpg,The Feast of St. Nicholas,Jan Havicksz. Steen,1665 - 1668,1665/1668,1665,1668,https://www.rijksmuseum.nl/en/collection/SK-A-385,Public Domain
+386,SK-A-386,data/SK-A-386.jpg,"Interior with a Woman Feeding a Parrot, Known as ‘The Parrot Cage’",Jan Havicksz. Steen,c. 1660 - c. 1670,1660~/1670~,1660,1670,https://www.rijksmuseum.nl/en/collection/SK-A-386,Public Domain
+4981,SK-A-4981,data/SK-A-4981.jpg,"Adolf and Catharina Croeser, Known as ‘The Burgomaster of Delft and his Daughter’",Jan Havicksz. Steen,1655,1655,1655,1655,https://www.rijksmuseum.nl/en/collection/SK-A-4981,Public Domain
+229,SK-C-229,data/SK-C-229.jpg,The Merry Family,Jan Havicksz. Steen,1668,1668,1668,1668,https://www.rijksmuseum.nl/en/collection/SK-C-229,Public Domain
+230,SK-C-230,data/SK-C-230.jpg,The Sick woman,Jan Havicksz. Steen,c. 1663 - c. 1666,1663~/1666~,1663,1666,https://www.rijksmuseum.nl/en/collection/SK-C-230,Public Domain
+1595,SK-A-1595,data/SK-A-1595.jpg,The Love Letter,Johannes Vermeer,c. 1669 - c. 1670,1669~/1670~,1669,1670,https://www.rijksmuseum.nl/en/collection/SK-A-1595,Public Domain
+2344,SK-A-2344,data/SK-A-2344.jpg,The Milkmaid,Johannes Vermeer,c. 1660,1660~,1660,1660,https://www.rijksmuseum.nl/en/collection/SK-A-2344,Public Domain
+2860,SK-A-2860,data/SK-A-2860.jpg,"View of Houses in Delft, Known as 'The Little Street'",Johannes Vermeer,c. 1658,1658~,1658,1658,https://www.rijksmuseum.nl/en/collection/SK-A-2860,Public Domain
+251,SK-C-251,data/SK-C-251.jpg,Woman Reading a Letter,Johannes Vermeer,c. 1663,1663~,1663,1663,https://www.rijksmuseum.nl/en/collection/SK-C-251,Public Domain
+3064,SK-A-3064,data/SK-A-3064.jpg,Portrait of a Girl Dressed in Blue,Johannes Verspronck,1641,1641,1641,1641,https://www.rijksmuseum.nl/en/collection/SK-A-3064,Public Domain
+4999,SK-A-4999,data/SK-A-4999.jpg,Portrait of Eduard Wallis,Johannes Verspronck,1652,1652,1652,1652,https://www.rijksmuseum.nl/en/collection/SK-A-4999,Public Domain
+5000,SK-A-5000,data/SK-A-5000.jpg,Portrait of Maria van Strijp,Johannes Verspronck,1652,1652,1652,1652,https://www.rijksmuseum.nl/en/collection/SK-A-5000,Public Domain
+1685,SK-A-1685,data/SK-A-1685.jpg,The Jolly Drinker,Judith Leyster,1629,1629,1629,1629,https://www.rijksmuseum.nl/en/collection/SK-A-1685,Public Domain
+1846,SK-C-1846,data/SK-C-1846.jpg,Two Children with a Cat,Judith Leyster,c. 1630,1630~,1630,1630,https://www.rijksmuseum.nl/en/collection/SK-C-1846,Public Domain
+5026,SK-A-5026,data/SK-A-5026.jpg,Wooded Landscape with Merrymakers in a Cart,Meindert Hobbema,c. 1665,1665~,1665,1665,https://www.rijksmuseum.nl/en/collection/SK-A-5026,Public Domain
+4646,SK-A-4646,data/SK-A-4646.jpg,Still Life with a Turkey Pie,Pieter Claesz,1627,1627,1627,1627,https://www.rijksmuseum.nl/en/collection/SK-A-4646,Public Domain
+182,SK-A-182,data/SK-A-182.jpg,A Maid with a Child in a Pantry,Pieter de Hooch,c. 1656 - c. 1660,1656~/1660~,1656,1660,https://www.rijksmuseum.nl/en/collection/SK-A-182,Public Domain
+1191,SK-C-1191,data/SK-C-1191.jpg,Interior with Women beside a Linen Cupboard,Pieter de Hooch,1663,1663,1663,1663,https://www.rijksmuseum.nl/en/collection/SK-C-1191,Public Domain
+150,SK-C-150,data/SK-C-150.jpg,Figures in a Courtyard behind a House,Pieter de Hooch,c. 1663 - c. 1665,1663~/1665~,1663,1665,https://www.rijksmuseum.nl/en/collection/SK-C-150,Public Domain
+359,SK-A-359,data/SK-A-359.jpg,Interior of the Chruch of St Bavo in Haarlem,Pieter Jansz Saenredam,1636,1636,1636,1636,https://www.rijksmuseum.nl/en/collection/SK-A-359,Public Domain
+851,SK-A-851,data/SK-A-851.jpg,The Nave and Choir of the Mariakerk in Utrecht,Pieter Jansz Saenredam,1641,1641,1641,1641,https://www.rijksmuseum.nl/en/collection/SK-A-851,Public Domain
+354,SK-A-354,data/SK-A-354.jpg,Still Life with Flowers in a Glass Vase,Rachel Ruysch,c. 1690 - c. 1720,1690~/1720~,1690,1720,https://www.rijksmuseum.nl/en/collection/SK-A-354,Public Domain
+4050,SK-A-4050,data/SK-A-4050.jpg,Self-portrait as the Apostle Paul,Rembrandt van Rijn,1661,1661,1661,1661,https://www.rijksmuseum.nl/en/collection/SK-A-4050,Public Domain
+216,SK-C-216,data/SK-C-216.jpg,"Isaac and Rebecca, Known as ‘The Jewish Bride’",Rembrandt van Rijn, c. 1665 - c. 1669,1665~/1669~,1665,1669,https://www.rijksmuseum.nl/en/collection/SK-C-216,Public Domain
+3138,SK-A-3138,data/SK-A-3138.jpg,Rembrandt’s Son Titus in a Monk’s Habit,Rembrandt van Rijn,1660,1660,1660,1660,https://www.rijksmuseum.nl/en/collection/SK-A-3138,Public Domain
+5092,SK-A-5092,data/SK-A-5092.jpg,The Standard Bearer,Rembrandt van Rijn,1636,1636,1636,1636,https://www.rijksmuseum.nl/en/collection/SK-A-5092,Public Domain
+152,SK-C-152,data/SK-C-152.jpg,The Anemic Lady',Samuel van Hoogstraten,1660 - 1678,1660/1678,1660,1678,https://www.rijksmuseum.nl/en/collection/SK-C-152,Public Domain
+1802,SK-C-1802,data/SK-C-1802.jpg,Cimon and Pero (Roman Charity),"Willem Drost, Venice",c. 1655 - c. 1657,1655~/1657~,1655,1657,https://www.rijksmuseum.nl/en/collection/SK-C-1802,Public Domain
+199,SK-A-199,data/SK-A-199.jpg,Still Life with a Silver Jug and a Porcelain Bowl,Willem Kalf,1655 - 1660,1655/1660,1655,1660,https://www.rijksmuseum.nl/en/collection/SK-A-199,Public Domain
+1707,SK-C-1707,data/SK-C-1707.jpg,Dutch Ships in a Calm Sea,Willem van de Velde (II),1665,1665,1665,1665,https://www.rijksmuseum.nl/en/collection/SK-C-1707,Public Domain
+133,SK-A-133,data/SK-A-133.jpg,"Portrait of a Married Couple, Likely Isaac Abrahamsz Massa and Beatrix van der Laen",Frans Hals,c. 1622,1622~,1622,1622,https://www.rijksmuseum.nl/en/collection/SK-A-133,Public Domain
