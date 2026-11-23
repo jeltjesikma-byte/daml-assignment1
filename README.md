@@ -40,7 +40,14 @@ The dataset can be used to explore the chronological distribution of paintings, 
 ### Ethical and legal aspects
 All 42 paintings are marked with the Creative Commons Public Domain Mark (PDM 1.0) by the Rijksmuseum. The dataset contains no personal information.
 
-## Licence and citation
+### Licence and citation
 The dataset is shared under the Creative Commons Zero (CC0 1.0) Public Domain Dedication. Users are encouraged to cite the dataset as follows:
 
 Sikma, J. (2026). *Paintings in the Rijksmuseum's Gallery of Honour* [Dataset].
+
+### Sources and references
+
+- [Rijksmuseum collection catalogue](https://www.rijksmuseum.nl/en/collection)
+- [Rijksmuseum – Gallery of Honour](https://www.rijksmuseum.nl/en/visit/whats-on/galleries-of-honour)
+- [Creative Commons Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)
+- [Creative Commons CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
