@@ -48,6 +48,5 @@ Sikma, J. (2026). *Paintings in the Rijksmuseum's Gallery of Honour* [Dataset].
 ### Sources and references
 
 - [Rijksmuseum collection catalogue](https://www.rijksmuseum.nl/en/collection)
-- [Rijksmuseum – Gallery of Honour](https://www.rijksmuseum.nl/en/visit/whats-on/galleries-of-honour)
 - [Creative Commons Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/)
 - [Creative Commons CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
