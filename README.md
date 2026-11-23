@@ -20,6 +20,7 @@ The downloaded images were resized because the original files were too large to 
 ### Structure
 The repository contains the following files and folders:
 
+| File/folder | Description |
 |---|---|
 | `data/` | Folder containing the resized images of the 42 paintings. |
 | `metadata.csv` | Final dataset containing the metadata for each painting. |
