@@ -1,6 +1,4 @@
-# daml-assignment1
-
-# Paintings in the Rijksmuseum's Gallery of Honour
+# daml-assignment1: Paintings in the Rijksmuseum's Gallery of Honour
 
 ## The dataset
 This dataset contains records and images of paintings displayed in the Gallery of Honour at the Rijksmuseum. Each item represents one painting, resulting in a total of 42 items.
